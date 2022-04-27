@@ -25,7 +25,7 @@ For both sources, all terms and definitions are formatted as "What is (are) X?" 
 
 ## Citation
 
-If you use our work, please cite our preprint
+If you use our work, please cite our paper
 
 ```
 @inproceedings{august-2022-definition-complexity,
