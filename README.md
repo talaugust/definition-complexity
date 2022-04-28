@@ -14,14 +14,14 @@ We use two sources for scientific definitions:
 
 For both sources, all terms and definitions are formatted as "What is (are) X?" with the answer being the definition of X.
 
-`data/` includes files for the wikipedia entries. For the MedQuAD entries, please download the dataset from the [MedQuAD repository](https://github.com/abachaa/MedQuAD). Once the files are downloaded, you can use the code in `data/' to convert into the dataset used by our models. 
+TBD: `data/` includes files for the wikipedia entries. For the MedQuAD entries, please download the dataset from the [MedQuAD repository](https://github.com/abachaa/MedQuAD). Once the files are downloaded, you can use the code in `data/' to convert into the dataset used by our models. 
 
 
 ## Models
-`models/` has training scripts for our models. All training and finetuning was done on a NVIDIA Titan X 12GB GPU. Details on hyperparameter settings are in the paper, though the scripts include the best performing settings we used. 
+TBD: `models/` has training scripts for our models. All training and finetuning was done on a NVIDIA Titan X 12GB GPU. Details on hyperparameter settings are in the paper, though the scripts include the best performing settings we used. 
 
 ## Code
-`generation/` includes notebooks for generating and evaluating definitions at different levels of complexity. 
+TBD: `generation/` includes notebooks for generating and evaluating definitions at different levels of complexity. 
 
 ## Citation
 
