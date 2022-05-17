@@ -14,7 +14,7 @@ We use two sources for scientific definitions:
 
 For both sources, all terms and definitions are formatted as "What is (are) X?" or "Do you have more information about X" with the answer being the definition of X.
 
-TBD: `data/` includes files for the wikipedia entries. For the MedQuAD entries, please download the dataset from the [MedQuAD repository](https://github.com/abachaa/MedQuAD). Once the files are downloaded, you can use the code in `data/' to convert into the dataset used by our models. 
+The data is avaliable on the [HuggingFace dataset hub](https://huggingface.co/datasets/talaugust/sci-definition).
 
 
 ## Models
