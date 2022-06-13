@@ -21,7 +21,7 @@ The data is avaliable on the [HuggingFace dataset hub](https://huggingface.co/da
 `models/` has training scripts for our models. All training and finetuning was done on a NVIDIA Titan X 12GB GPU. Details on hyperparameter settings are in the paper, though the scripts include the best performing settings we used. You can download our best-performing model (BART finetuned with the support documents) from the [HuggingFace Hub](https://huggingface.co/talaugust/bart-sci-definition). 
 
 ## Code
-TBD: `generation/` includes notebooks for generating and evaluating definitions at different levels of complexity. 
+`generation/` includes notebooks for generating and evaluating definitions at different levels of complexity. 
 
 ## Citation
 
